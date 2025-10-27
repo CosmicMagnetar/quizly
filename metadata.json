@@ -1,0 +1,5 @@
+{
+  "name": "QuizMind",
+  "description": "An AI-powered quiz practice website that allows users to upload PDF question papers, automatically extracts questions, and presents them as interactive quizzes with AI-generated explanations.",
+  "requestFramePermissions": []
+}
