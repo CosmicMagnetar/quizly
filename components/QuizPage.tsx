@@ -159,6 +159,7 @@ const QuizPage = () => {
         </div>
 
         {/* Empty State */}
+        {/* Questions List */}
         {questions.length === 0 ? (
           <div className="bg-white rounded-2xl p-16 text-center shadow-sm">
             <p className="text-2xl text-slate-700 font-semibold mb-2">No questions found</p>
